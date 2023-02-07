@@ -1,0 +1,7 @@
+\\et-fileserver\staff\pawnol\Desktop\PrintArrayGenericMethod\bin\Debug\PrintArrayGenericMethod.exe.config
+\\et-fileserver\staff\pawnol\Desktop\PrintArrayGenericMethod\bin\Debug\PrintArrayGenericMethod.exe
+\\et-fileserver\staff\pawnol\Desktop\PrintArrayGenericMethod\bin\Debug\PrintArrayGenericMethod.pdb
+\\et-fileserver\staff\pawnol\Desktop\PrintArrayGenericMethod\obj\Debug\PrintArrayGenericMethod.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\PrintArrayGenericMethod\obj\Debug\PrintArrayGenericMethod.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\PrintArrayGenericMethod\obj\Debug\PrintArrayGenericMethod.exe
+\\et-fileserver\staff\pawnol\Desktop\PrintArrayGenericMethod\obj\Debug\PrintArrayGenericMethod.pdb

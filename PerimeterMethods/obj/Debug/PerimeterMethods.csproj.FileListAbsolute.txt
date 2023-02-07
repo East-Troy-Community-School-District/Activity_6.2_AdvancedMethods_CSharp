@@ -1,0 +1,7 @@
+\\et-fileserver\staff\pawnol\Desktop\PerimeterMethods\bin\Debug\PerimeterMethods.exe.config
+\\et-fileserver\staff\pawnol\Desktop\PerimeterMethods\bin\Debug\PerimeterMethods.exe
+\\et-fileserver\staff\pawnol\Desktop\PerimeterMethods\bin\Debug\PerimeterMethods.pdb
+\\et-fileserver\staff\pawnol\Desktop\PerimeterMethods\obj\Debug\PerimeterMethods.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\PerimeterMethods\obj\Debug\PerimeterMethods.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\PerimeterMethods\obj\Debug\PerimeterMethods.exe
+\\et-fileserver\staff\pawnol\Desktop\PerimeterMethods\obj\Debug\PerimeterMethods.pdb

@@ -1,0 +1,7 @@
+\\et-fileserver\staff\pawnol\Desktop\DisplayAddressMethod\bin\Debug\DisplayAddressMethod.exe.config
+\\et-fileserver\staff\pawnol\Desktop\DisplayAddressMethod\bin\Debug\DisplayAddressMethod.exe
+\\et-fileserver\staff\pawnol\Desktop\DisplayAddressMethod\bin\Debug\DisplayAddressMethod.pdb
+\\et-fileserver\staff\pawnol\Desktop\DisplayAddressMethod\obj\Debug\DisplayAddressMethod.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\DisplayAddressMethod\obj\Debug\DisplayAddressMethod.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\DisplayAddressMethod\obj\Debug\DisplayAddressMethod.exe
+\\et-fileserver\staff\pawnol\Desktop\DisplayAddressMethod\obj\Debug\DisplayAddressMethod.pdb
