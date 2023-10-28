@@ -1,7 +1,8 @@
 ﻿/*
  * Print Array Generic Method
- * 2/6/2023
- * C#.NET I
+ * Pawelski
+ * 10/28/2023
+ * Developing Desktop Applications
  * 
  * Instructions:
  * Look at the PrintArray() method, which is overloaded
